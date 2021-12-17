@@ -11341,8 +11341,8 @@ p {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  /*background-color: #212529;*/
-  background-image: linear-gradient(  #212529, #ffc800 );
+  /*background-color: #212529;*/    
+  background-image: linear-gradient(to right, #212529, #ffc800 ); /*to left, to, right, to top, to bottom*/
 }
 #mainNav .navbar-toggler {
   padding: 0.75rem;
